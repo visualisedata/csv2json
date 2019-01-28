@@ -7,5 +7,6 @@ Please download and provide feedback :)
 
 Script name:
 
-csv2json.py - (adapted from https://codereview.stackexchange.com/questions/180320/convert-all-csv-files-in-a-given-directory-to-json-using-python)
-Converts every CSV in the folder to JSON 
+csv2json_all.py - (adapted from https://codereview.stackexchange.com/questions/180320/convert-all-csv-files-in-a-given-directory-to-json-using-python)
+Converts every CSV file found in the default folder to JSON format.  The result is a JSON file for every CSV file that is found.
+No arguments required to run this. 
